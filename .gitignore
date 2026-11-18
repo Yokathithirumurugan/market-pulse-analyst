@@ -1,0 +1,11 @@
+reports/
+reports/charts/
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+sample_data.csv
+*.egg-info/
+.DS_Store
